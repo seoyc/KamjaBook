@@ -20,6 +20,10 @@ class BookData {
     var pubdate = ""
     var isbn = ""
     var description = ""
+    
+    init(){
+        
+    }
     /*
     func insert(obj : AnyObject ){
         self.link = ""
